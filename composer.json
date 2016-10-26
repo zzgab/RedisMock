@@ -1,14 +1,19 @@
 {
-    "name": "m6web/redis-mock",
+    "name": "figdice/redis-mock",
     "type": "library",
     "description" : "Library providing a PHP mock for Redis",
     "keywords": ["redis","mock"],
+    "version": "2.7.0-gz",
     "license": "MIT",
     "authors": [
         {
             "name": "M6Web",
             "email": "opensource@m6web.fr",
             "homepage": "http://tech.m6web.fr/"
+        },
+        {
+            "name": "Gabriel Zerbib",
+            "email": "gabriel@figdice.org"
         }
     ],
     "autoload": {
